@@ -1,0 +1,17 @@
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\UnitTestDijkstra.dll
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\UnitTestDijkstra.pdb
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\obj\Debug\UnitTestDijkstra.csprojAssemblyReference.cache
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\obj\Debug\UnitTestDijkstra.csproj.CoreCompileInputs.cache
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\obj\Debug\UnitTestDijkstra.csproj.CopyComplete
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\obj\Debug\UnitTestDijkstra.dll
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\obj\Debug\UnitTestDijkstra.pdb
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\lesson4.exe
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\lesson4.pdb
+D:\nso\data algoritms\lesson4\UnitTestDijkstra\bin\Debug\lesson4.exe.config
